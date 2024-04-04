@@ -1,4 +1,4 @@
-# Mongo DB - Next JS SRC - Payload CMS
+# Mongo DB - Next JS SRC - Payload CMS <img style=" height:38px; padding-top:10px;" src="https://i.ibb.co/jLBbvB9/payload-Mongo.png"/>
 
 # Dev Notes
 
